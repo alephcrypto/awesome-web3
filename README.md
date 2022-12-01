@@ -1,7 +1,7 @@
 # awesome-web3
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-Blockchain educational and research content curated by team and community of [AlephCrypto.xyz](https://AlephCrypto.xyz)
+Blockchain educational and research content curated by team and community of [alephcrypto.xyz](https://alephcrypto.xyz)
 
 ## Applications
 
