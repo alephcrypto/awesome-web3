@@ -23,3 +23,7 @@ Blockchain educational and research content curated by team and community of [al
 
 ### Notable ERCs
 
+## Zero Knowledge 
+
+### Starknet / Sta
+- https://starknet.io/community/community-links/gaming/
