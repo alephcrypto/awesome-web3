@@ -3,6 +3,10 @@
 
 Blockchain educational and research content curated by team and community of [alephcrypto.xyz](https://alephcrypto.xyz)
 
+## Public Dashboards and Industry Stats
+- [DefilLama](https://defillama.com/)
+- [CoinMarketCap](https://coinmarketcap.com/)
+
 ## Applications
 
 ### DAO / Community Building / Governance
@@ -11,7 +15,8 @@ Blockchain educational and research content curated by team and community of [al
 - Guild.xyz
 
 ### NFT
-- 
+- OpenSea.io
+
 ## Blockchain General
 
 1. BitCoin Whitepaper
