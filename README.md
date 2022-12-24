@@ -10,12 +10,13 @@ Blockchain educational and research content curated by team and community of [al
 ## Applications
 
 ### DAO / Community Building / Governance
-- Aragon
-- Collab.land
-- Guild.xyz
+- [Aragon](Aragon.org)
+- [Collab.land](Collab.land)
+- [Guild.xyz](guild.xyz)
+- [Snapshot](https://snapshot.org/)
 
 ### NFT
-- OpenSea.io
+- [OpenSea.io](OpenSea.io)
 
 ## Blockchain General
 
